@@ -12,8 +12,8 @@ Actualmente desarrollo proyectos personales y colaboro en investigaciones vincul
 - Python · C · SQL · JavaScript · HTML/CSS · Flask
 
 **Análisis estadístico**
-- R · JASP · Modelos de medidas repetidas · ANOVAs · Análisis psicométrico
-- Diseño y evaluación de encuestas a través de analisis factoriales
+- Analisis estadisticos usando lenguajes como R · Python · Matlab y software como JASP
+- Diseño y evaluación de encuestas a través de analisis factoriales en R
 - Análisis de big data y limpieza de datos
 
 **Neurociencias y fisiología**
