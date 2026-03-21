@@ -43,4 +43,4 @@ Actualmente desarrollo proyectos personales y colaboro en investigaciones vincul
 
 ---
 
-*Siempre abierto a colaborar en proyectos de investigación que crucen psicología, datos y neurociencias.*
+*Siempre abierto a colaborar en proyectos de investigación que crucen psicología, problematicas sociales y neurociencias.*
