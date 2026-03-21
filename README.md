@@ -6,7 +6,7 @@ Actualmente desarrollo proyectos personales y colaboro en investigaciones vincul
 
 ---
 
-## 🛠️ Habilidades y herramientas
+## Habilidades y herramientas
 
 **Programación y datos**
 - Python · C · SQL · JavaScript · HTML/CSS · Flask
@@ -28,7 +28,7 @@ Actualmente desarrollo proyectos personales y colaboro en investigaciones vincul
 
 ---
 
-## 🎓 Formación
+## Formación
 
 - **Magíster en Psicología Social** — Universidad Adolfo Ibáñez (UAI)
 - **CS50x** — Introduction to Computer Science, Harvard University
@@ -36,7 +36,7 @@ Actualmente desarrollo proyectos personales y colaboro en investigaciones vincul
 
 ---
 
-## 🏢 Experiencia actual
+## Experiencia actual
 
 - Ayudante de investigación — **ESDlab**
 - Proyectos personales en análisis de datos conductuales, fisiológicos y de texto
