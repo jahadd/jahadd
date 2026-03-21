@@ -38,7 +38,7 @@ Actualmente desarrollo proyectos personales y colaboro en investigaciones vincul
 
 ## 🏢 Experiencia actual
 
-- Investigador colaborador — **ESDlab**
+- Ayudante de investigación — **ESDlab**
 - Proyectos personales en análisis de datos conductuales, fisiológicos y de texto
 
 ---
