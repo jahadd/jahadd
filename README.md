@@ -9,7 +9,7 @@ Actualmente desarrollo proyectos personales y colaboro en investigaciones vincul
 ## Habilidades y herramientas
 
 **Programación y datos**
-- Python · C · SQL · JavaScript · HTML/CSS · Flask
+- Python · SQL · JavaScript · HTML/CSS · Flask
 
 **Análisis estadístico**
 - Analisis estadisticos usando lenguajes como R · Python · Matlab y software como JASP
