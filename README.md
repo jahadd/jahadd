@@ -1,6 +1,6 @@
 # Hola, soy Matías Carmach 👋
 
-Psicólogo Social con orientación hacia el estudio del comportamiento humano desde una perspectiva cuantitativa. Me interesan los analisis de datos experimentales y de BIG DATA, soy capaz de integrar herramientas de las ciencias computacionales y estadísticas para comprender fenómenos psicológicos complejos, integrando analisis conductual y psicometrico con la actividad fisiológica y cerebral.
+Psicólogo Social con orientación hacia el estudio del comportamiento humano desde una perspectiva cuantitativa. Me interesan los analisis de datos experimentales en psicología, neurociencias y de BIG DATA, soy capaz de integrar herramientas de las ciencias computacionales y estadísticas para comprender fenómenos psicológicos complejos, integrando analisis conductual y psicometrico con la actividad fisiológica y cerebral.
 
 Actualmente desarrollo proyectos personales y colaboro en investigaciones vinculadas al **ESDlab** (Experimental Social and Decision-making Lab).
 
